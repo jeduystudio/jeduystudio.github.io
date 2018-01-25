@@ -1,3 +1,204 @@
 God is good
 Glorious
 Gorgeous and okay
+import android.content.ClipboardManager;
+import android.graphics.*;
+import android.media.*;
+import android.net.*;
+import android.text.*;*/
+//import android.util.*;
+//import android.webkit.*;
+import java.util.*;
+//import java.text.*;
+
+public class MainActivity extends Activity 
+{
+
+	private Timer _timer = new Timer();
+	private Intent i1 = new Intent();
+	private TimerTask time;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        	time = new TimerTask() {
+					@Override
+						public void run() {
+							runOnUiThread(new Runnable() {
+							@Override
+								public void run() {
+										i1.setClass(getApplicationContext(), OptionActivity.class);
+								startActivity(i1);
+									}
+							});
+						}
+					};
+					_timer.schedule(time, (int)(3000));
+					//MainActivity.this.finish();
+							
+		//finish();
+    }
+}	4äimport android.content.ClipboardManager;
+import android.graphics.*;
+import android.media.*;
+import android.net.*;
+import android.text.*;*/
+//import android.util.*;
+//import android.webkit.*;
+import java.util.*;
+//import java.text.*;
+
+public class MainActivity extends Activity 
+{
+
+	private Timer _timer = new Timer();
+	private Intent i1 = new Intent();
+	private TimerTask time;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        	time = new TimerTask() {
+					@Override
+						public void run() {
+							runOnUiThread(new Runnable() {
+							@Override
+								public void run() {
+										i1.setClass(getApplicationContext(), OptionActivity.class);
+								startActivity(i1);
+									}
+							});
+						}
+					};
+					_timer.schedule(time, (int)(3000));
+					//MainActivity.this.finish();
+							
+		//finish();
+    }import android.content.ClipboardManager;
+import android.graphics.*;
+import android.media.*;
+import android.net.*;
+import android.text.*;*/
+//import android.util.*;
+//import android.webkit.*;
+import java.util.*;
+//import java.text.*;
+
+public class MainActivity extends Activity 
+{
+
+	private Timer _timer = new Timer();
+	private Intent i1 = new Intent();
+	private TimerTask time;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        	time = new TimerTask() {
+					@Override
+						public void run() {
+							runOnUiThread(new Runnable() {
+							@Override
+								public void run() {
+										i1.setClass(getApplicationContext(), OptionActivity.class);
+								startActivity(i1);
+									}
+							});
+						}
+					};
+					_timer.schedule(time, (int)(3000));
+					//MainActivity.this.finish();
+							
+		//finish();
+    }import android.content.ClipboardManager;
+import android.graphics.*;
+import android.media.*;
+import android.net.*;
+import android.text.*;*/
+//import android.util.*;
+//import android.webkit.*;
+import java.util.*;
+//import java.text.*;
+
+public class MainActivity extends Activity 
+{
+
+	private Timer _timer = new Timer();
+	private Intent i1 = new Intent();
+	private TimerTask time;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        	time = new TimerTask() {
+					@Override
+						public void run() {
+							runOnUiThread(new Runnable() {
+							@Override
+								public void run() {
+										i1.setClass(getApplicationContext(), OptionActivity.class);
+								startActivity(i1);
+									}
+							});
+						}
+					};
+					_timer.schedule(time, (int)(3000));
+					//MainActivity.this.finish();
+							
+		//finish();
+    }
+}	4äimport android.content.ClipboardManager;
+import android.graphics.*;
+import android.media.*;
+import android.net.*;
+import android.text.*;*/
+//import android.util.*;
+//import android.webkit.*;
+import java.util.*;
+//import java.text.*;
+
+public class MainActivity extends Activity 
+{
+
+	private Timer _timer = new Timer();
+	private Intent i1 = new Intent();
+	private TimerTask time;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState)
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        	time = new TimerTask() {
+					@Override
+						public void run() {
+							runOnUiThread(new Runnable() {
+							@Override
+								public void run() {
+										i1.setClass(getApplicationContext(), OptionActivity.class);
+								startActivity(i1);
+									}
+							});
+						}
+					};
+					_timer.schedule(time, (int)(3000));
+					//MainActivity.this.finish();
+							
+		//finish();
+    }
+}	4ä
+}	4ä
+}	4ä
